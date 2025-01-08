@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | Frontend Developer | Football Enthusiast</h3>
 
 <div>
-    <img src="https://i.ibb.co.com/C2vmFNK/profile.png" alt="" />
+    <img alighn="right" src="https://i.ibb.co.com/C2vmFNK/profile.png" alt="" />
 </div>
 
 ---
