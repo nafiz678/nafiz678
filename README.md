@@ -2,15 +2,15 @@
 <h3 align="center">Aspiring Full-Stack Developer | Frontend Developer | Football Enthusiast</h3>
 
 
+<div align="right">
+    <img src="https://i.ibb.co/C2vmFNK/profile.png" alt="Profile Image" />
+</div>
 
 ---
 
 ### 🌟 About Me
 I'm a passionate developer with a keen interest in crafting unique and user-friendly web applications. Currently studying and enhancing my skills, I aspire to become a full-stack developer. Challenges and creativity fuel my journey. 
 
-<div align="right">
-    <img src="https://i.ibb.co/C2vmFNK/profile.png" alt="Profile Image" width="300" />
-</div>
 #### 💡 A Few Things About Me:
 - 🌱 I’m currently learning **Next Js**
 - 🎨 Skilled at designing visually appealing and modern interfaces.
