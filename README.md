@@ -1,71 +1,58 @@
-<h1 align="center">Hi there, I'm <span style="color:#0099ff;">Ryne</span> (Nafiz) 👋</h1>
-<p align="center">
-  <em>A passionate Front-End Developer 🌟 | Future Full-Stack Dev 🚀 | Football Enthusiast ⚽ | Gamer 🎮</em>
+<h1 align="center">Hi there, I'm Ryne (Nafiz) 👋</h1>
+## 🔧 Skills
+
+### Languages:
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### Front-End:
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+</p>
+
+### Back-End:
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Prisma-%230B3446.svg?style=flat&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link" alt="banner" width="100%">
-</div>
+## 🔗 Connect with Me
 
----
-
-## 🌟 About Me
-
-- 🎨 **Creative Designer & Developer** - I love crafting unique and eye-catching designs with modern frameworks like **React** and **Tailwind**.  
-- 🌐 **Aspiring Full-Stack Developer** - Currently diving deeper into **Prisma ORM**, **MongoDB**, and **Express** for backend development.  
-- 🤓 **Always Learning** - Exploring new tech, solving challenges, and upgrading my **C/C++** skills.  
-- 🌍 **Humanitarian** - Building a **crowdfunding website** to help those in need.  
-- ⚽ **Passionate About Football** - Playing, watching, and living the game!  
-
----
-
-## 🛠️ Technologies & Tools
-
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafiz678&show_icons=true&theme=tokyonight" alt="Ryne's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiz678&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
+<p align="left">
+  <a href="https://linkedin.com/in/nafiz678">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/nafiz678">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🔎 GitHub Contributions
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0099ff?logo=internetexplorer&logoColor=white" alt="Portfolio"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nafiz678&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiz678&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiz678&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🎨 Let's Collaborate
 
-### [Crowdfunding Website 🌐](https://github.com/your-crowdfunding-repo)
-Helping those in need with a modern platform for raising funds. Built with **React**, **Tailwind**, and **Express**.
-
-### [Modern UI Portfolio 💻](https://github.com/your-portfolio-repo)
-A clean, minimalist portfolio showcasing my skills and projects.
-
----
-
-<p align="center">✨ Thank you for visiting my GitHub profile! Let's connect and collaborate! ✨</p>
+I’m open to working on exciting projects and ideas that make a difference. Feel free to reach out to me!
