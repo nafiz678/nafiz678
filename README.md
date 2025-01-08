@@ -8,7 +8,6 @@
 I'm a passionate developer with a keen interest in crafting unique and user-friendly web applications. Currently studying and enhancing my skills, I aspire to become a full-stack developer. Challenges and creativity fuel my journey. 
 
 #### 💡 A Few Things About Me:
-- 🚀 Developing a crowdfunding platform to help those in need.
 - ⚽ Huge football fan – love playing and watching the game.
 - 🎮 Gaming enthusiast who enjoys problem-solving and strategy.
 - 🎨 Skilled at designing visually appealing and modern interfaces.
