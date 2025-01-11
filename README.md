@@ -3,7 +3,7 @@
 
 
 <div align="center">
-    <img src="https://i.ibb.co/C2vmFNK/profile.png" alt="Profile Image" />
+    <img src="https://i.ibb.co.com/WfYcmrj/profile2.png" alt="Profile Image" />
 </div>
 
 ---
