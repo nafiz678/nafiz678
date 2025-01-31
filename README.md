@@ -1,11 +1,12 @@
-<h1 align="center">Hi there, I'm Nafiz👋</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Frontend Developer | Football Enthusiast</h3>
-
-
 <div align="center">
     <img src="https://i.ibb.co/WfYcmrj/profile2.png" alt="Profile Image" 
          style="height: 150px; width: auto; object-fit: cover; border-radius: 50%;" />
 </div>
+
+
+<h1 align="center">Hi there, I'm Nafiz👋</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Frontend Developer | Football Enthusiast</h3>
+
 
 ---
 
