@@ -18,7 +18,7 @@ I'm a passionate developer with a keen interest in crafting unique and user-frie
 - 🎨 Skilled at designing visually appealing and modern interfaces.
 - ⚽ Huge football fan – love playing and watching the game.
 - 🎮 Gaming enthusiast who enjoys problem-solving and strategy.
-- 👨‍💻 All of my projects are available at [https://nafiz-ryne.web.app](https://nafiz-ryne.web.app/projects)
+- 👨‍💻 All of my projects are available at [[Portfolio](https://nafiz-portfolio-eight.vercel.app/)]
 
 
 
