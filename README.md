@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.ibb.co/WfYcmrj/profile2.png" alt="Profile Image" 
+    <img src="https://i.ibb.co.com/fV5w6SL0/nafizulikram3.png" alt="Profile Image" 
          style="height: 150px; width: auto; object-fit: cover; border-radius: 50%;" />
 </div>
 
