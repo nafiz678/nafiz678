@@ -3,35 +3,40 @@
          style="height: 150px; width: auto; object-fit: cover; border-radius: 50%;" />
 </div>
 
-
 <h1 align="center">Hi there, I'm Nafiz👋</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Frontend Developer | Football Enthusiast</h3>
 
-
----
+<hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
 ### 🌟 About Me
-I'm a passionate developer with a keen interest in crafting unique and user-friendly web applications. Currently studying and enhancing my skills, I aspire to become a full-stack developer. Challenges and creativity fuel my journey. 
+<p align="center">I'm a passionate developer with a keen interest in crafting unique and user-friendly web applications. Currently studying and enhancing my skills, I aspire to become a full-stack developer. Challenges and creativity fuel my journey.</p>
 
 #### 💡 A Few Things About Me:
 - 🌱 I’m currently learning **Next Js**
 - 🎨 Skilled at designing visually appealing and modern interfaces.
 - ⚽ Huge football fan – love playing and watching the game.
 - 🎮 Gaming enthusiast who enjoys problem-solving and strategy.
-- 👨‍💻 All of my projects are available at [[Portfolio](https://nafiz-portfolio-eight.vercel.app/)]
+- 👨‍💻 All of my projects are available at <a href="https://nafiz-portfolio-eight.vercel.app/">Portfolio</a>
 
+<hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
+### 📈 Currently Working On
+<p align="center">- Learning **Next.js** and building full-stack applications with React.</p>
+<p align="center">- Contributing to **open-source projects** and collaborating with developers globally.</p>
 
-  📫 How to reach me **nafizulikram3@gmail.com**
+<hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/nafizulikram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nafizulikram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-nafizul-iqram-858a3828b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-nafizul-iqram-858a3828b/" height="30" width="40" /></a>
+### 📫 How to reach me:
+<p align="center">
+    <a href="mailto:nafizulikram3@gmail.com"><img src="https://img.shields.io/badge/Email-%40nafizulikram3@gmail.com-brightgreen?style=for-the-badge&logo=gmail" alt="email" /></a>
+    <a href="https://twitter.com/https://x.com/nafizulikram" target="_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40nafizulikram-brightblue?style=for-the-badge&logo=twitter" alt="twitter" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-nafizul-iqram-858a3828b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@nafizulikram-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
 </p>
 
+<hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -85,9 +90,25 @@ I'm a passionate developer with a keen interest in crafting unique and user-frie
   </a>
 </p>
 
+<hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz678&show_icons=true&locale=en&layout=compact" alt="nafiz678" /></p>
+### 🚀 Featured Projects
+- **Real-time chat app**: Friends Chat is a real-time chat app with one-on-one and group messaging, powered by Convex for seamless communication. [GitHub link](https://github.com/nafiz678/real-time-chat-app)
+- **News Chronicle**: News Chronicle is a modern, role-based news platform with a clean UI, dynamic content, and features like search and category filtering. [GitHub link](https://github.com/nafiz678/news-chronicle-client)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz678&show_icons=true&locale=en" alt="nafiz678" /></p>
+<hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiz678&" alt="nafiz678" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nafiz678&show_icons=true&locale=en" alt="nafiz678" />
+</p>
+
+<h3 align="left">Top Languages:</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz678&show_icons=true&locale=en&layout=compact" alt="nafiz678" />
+</p>
+
+<h3 align="left">Streak Stats:</h3>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiz678&" alt="nafiz678" />
+</p>
