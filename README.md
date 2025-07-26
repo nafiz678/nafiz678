@@ -77,11 +77,12 @@ I'm a passionate developer with a keen interest in crafting unique and user-frie
   <a href="https://stripe.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" alt="stripe" width="40" height="40"/>
   </a>
-  <a href="https://clerk.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="clerk" width="40" height="40"/>
-  </a>
+  
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
+  </a>
+  <a href="https://clerk.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="clerk" width="40" height="40"/>
   </a>
 </p>
 
