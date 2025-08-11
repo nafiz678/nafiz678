@@ -29,8 +29,8 @@
 ### 📫 How to reach me:
 <p align="center">
     <a href="mailto:nafizulikram3@gmail.com"><img src="https://img.shields.io/badge/Email-%40nafizulikram3@gmail.com-brightgreen?style=for-the-badge&logo=gmail" alt="email" /></a>
-    <a href="https://twitter.com/https://x.com/nafizulikram" target="_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40nafizulikram-brightblue?style=for-the-badge&logo=twitter" alt="twitter" /></a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-nafizul-iqram-858a3828b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@nafizulikram-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+    <a href="https://twitter.com/nafizulikram" target="_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40nafizulikram-brightblue?style=for-the-badge&logo=twitter" alt="twitter" /></a>
+    <a href="https://linkedin.com/in/md-nafizul-iqram/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@nafizulikram-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
 </p>
 
 <hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
