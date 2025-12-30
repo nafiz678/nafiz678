@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.ibb.co.com/vvBnb8Mg/Chat-GPT-Image-Dec-28-2025-03-01-21-PM-realesrgan.png" alt="Profile Image" 
+    <img src="https://ibb.co.com/Hp280Q91" alt="Profile Image" 
          style="height: 150px; width: auto; object-fit: cover; border-radius: 50%;" />
 </div>
 
