@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.ibb.co.com/vvBnb8Mg/Chat-GPT-Image-Dec-28-2025-03-01-21-PM-realesrgan.png" alt="Nafizul Iqram cover image" border="0">
+    <img src="https://i.ibb.co.com/Lzrq4zMH/naiqry-cover-realesrgan.png" alt="Nafizul Iqram cover image" border="0">
 </div>
 
 <h1 align="center">Hi there, I'm Nafiz👋</h1>
