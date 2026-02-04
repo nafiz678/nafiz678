@@ -20,7 +20,7 @@
 <hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
 ### 📈 Currently Working On
-<p align="center">- Learning **Next.js** and building full-stack applications with React.</p>
+<p align="center">- Learning **Tanstack** and building full-stack applications</p>
 <p align="center">- Contributing to **open-source projects** and collaborating with developers globally.</p>
 
 <hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
