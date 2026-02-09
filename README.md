@@ -2,7 +2,7 @@
     <img src="https://i.ibb.co.com/1Jq8X7FJ/naiqry-cover-realesrgan.jpg" alt="Nafizul Iqram cover image" border="0">
 </div>
 
-<h1 align="center">Hi there, I'm Nafiz👋</h1>
+<h1 align="center">Hi there, I'm MD Nafizul Iqram👋</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Frontend Developer | Football Enthusiast</h3>
 
 <hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
@@ -15,7 +15,7 @@
 - 🎨 Skilled at designing visually appealing and modern interfaces.
 - ⚽ Huge football fan – love playing and watching the game.
 - 🎮 Gaming enthusiast who enjoys problem-solving and strategy.
-- 👨‍💻 All of my projects are available at <a href="https://nafiz-portfolio-eight.vercel.app/">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://nafiz.dev/">Portfolio</a>
 
 <hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
