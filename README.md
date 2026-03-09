@@ -136,22 +136,6 @@
   />
 </p>
 
-<h3 align="left">Activity Graph:</h3>
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nafiz678&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub activity graph"
-  />
-</p>
-
-<h3 align="left">Trophies:</h3>
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=nafiz678&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-    alt="GitHub trophies"
-  />
-</p>
-
 <h3 align="left">Profile Summary:</h3>
 <p align="center">
   <img
@@ -166,18 +150,7 @@
     alt="Repos per language"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafiz678&theme=tokyonight"
-    alt="Most commit language"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafiz678&theme=tokyonight"
     alt="Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nafiz678&theme=tokyonight&utcOffset=6"
-    alt="Productive time"
   />
 </p>
