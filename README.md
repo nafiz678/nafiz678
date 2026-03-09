@@ -114,20 +114,6 @@
 
 <hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nafiz678&show_icons=true&locale=en&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Nafiz GitHub stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz678&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Top languages"
-    height="170"
-  />
-</p>
-
 <h3 align="left">Streak Stats:</h3>
 <p align="center">
   <img
