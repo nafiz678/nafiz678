@@ -37,56 +37,56 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" aria-label="Git">
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" aria-label="Node.js">
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" title="Node.js" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" aria-label="React">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" aria-label="Tailwind CSS">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" aria-label="Next.js">
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://stripe.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="40" height="40"/>
+  <a href="https://stripe.com/" target="_blank" rel="noopener noreferrer" aria-label="Stripe">
+    <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" title="Stripe" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer" aria-label="Express">
+    <img src="https://cdn.simpleicons.org/express/000000" alt="Express" title="Express" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://clerk.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://clerk.com/" target="_blank" rel="noopener noreferrer" aria-label="Clerk">
+    <img src="https://cdn.simpleicons.org/clerk/6C47FF" alt="Clerk" title="Clerk" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" aria-label="MongoDB">
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" aria-label="PostgreSQL">
+    <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://honojs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="honojs" width="40" height="40"/>
+  <a href="https://hono.dev/" target="_blank" rel="noopener noreferrer" aria-label="Hono">
+    <img src="https://cdn.simpleicons.org/hono/E36002" alt="Hono" title="Hono" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer" aria-label="C">
+    <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" title="C" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" aria-label="C++">
+    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" title="C++" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer" aria-label="CSS3">
+    <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" title="CSS3" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" aria-label="HTML5">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" aria-label="JavaScript">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="40" height="40" loading="lazy" decoding="async" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" aria-label="TypeScript">
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://tanstack.com/" target="_blank" rel="noopener noreferrer" aria-label="TanStack">
     <img src="https://cdn.simpleicons.org/tanstack/FF4154" alt="TanStack" title="TanStack" width="40" height="40" loading="lazy" decoding="async" />
