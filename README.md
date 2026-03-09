@@ -116,15 +116,68 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nafiz678&show_icons=true&locale=en" alt="nafiz678" />
-</p>
-
-<h3 align="left">Top Languages:</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz678&show_icons=true&locale=en&layout=compact" alt="nafiz678" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nafiz678&show_icons=true&locale=en&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Nafiz GitHub stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz678&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Top languages"
+    height="170"
+  />
 </p>
 
 <h3 align="left">Streak Stats:</h3>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiz678&" alt="nafiz678" />
+  <img
+    src="https://streak-stats.demolab.com?user=nafiz678&theme=tokyonight&hide_border=true"
+    alt="GitHub streak stats"
+  />
+</p>
+
+<h3 align="left">Activity Graph:</h3>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nafiz678&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub activity graph"
+  />
+</p>
+
+<h3 align="left">Trophies:</h3>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=nafiz678&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+    alt="GitHub trophies"
+  />
+</p>
+
+<h3 align="left">Profile Summary:</h3>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafiz678&theme=tokyonight"
+    alt="Profile details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiz678&theme=tokyonight"
+    alt="Repos per language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafiz678&theme=tokyonight"
+    alt="Most commit language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafiz678&theme=tokyonight"
+    alt="Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nafiz678&theme=tokyonight&utcOffset=6"
+    alt="Productive time"
+  />
 </p>
