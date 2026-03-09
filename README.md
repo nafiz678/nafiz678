@@ -88,8 +88,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-
-    <!-- Added tools -->
   <a href="https://tanstack.com/" target="_blank" rel="noopener noreferrer" aria-label="TanStack">
     <img src="https://cdn.simpleicons.org/tanstack/FF4154" alt="TanStack" title="TanStack" width="40" height="40" loading="lazy" decoding="async" />
   </a>
@@ -101,9 +99,6 @@
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" aria-label="Docker">
     <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="40" height="40" loading="lazy" decoding="async" />
-  </a>
-  <a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer" aria-label="Playwright">
-    <img src="https://cdn.simpleicons.org/playwright/2EAD33" alt="Playwright" title="Playwright" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer" aria-label="Jest">
     <img src="https://cdn.simpleicons.org/jest/C21325" alt="Jest" title="Jest" width="40" height="40" loading="lazy" decoding="async" />
