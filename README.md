@@ -3,15 +3,16 @@
 </div>
 
 <h1 align="center">Hi there, I'm MD Nafizul Iqram👋</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Frontend Developer | Football Enthusiast</h3>
+<h3 align="center">Frontend Developer | React • Next.js • TypeScript | Building Scalable Web Apps</h3>
 
 <hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
 ### 🌟 About Me
-<p align="center">I'm a passionate developer with a keen interest in crafting unique and user-friendly web applications. Currently studying and enhancing my skills, I aspire to become a full-stack developer. Challenges and creativity fuel my journey.</p>
+<p align="center">I'm a passionate developer with a keen interest in crafting unique and user-friendly web applications. Currently studying and enhancing my skills, I aspire to become a full-stack developer. I enjoy solving challenging problems and building user-focused web applications.</p>
 
 #### 💡 A Few Things About Me:
-- 🌱 I’m currently learning Tanstack
+- 🌱 Building scalable web applications with React, Next.js, and TanStack ecosystem
+- 🧑‍💻 Exploring modern frontend architectures (Monorepo, Turborepo)
 - 🎨 Skilled at designing visually appealing and modern interfaces.
 - ⚽ Huge football fan – love playing and watching the game.
 - 🎮 Gaming enthusiast who enjoys problem-solving and strategy.
@@ -30,6 +31,7 @@
     <a href="mailto:nafizulikram3@gmail.com"><img src="https://img.shields.io/badge/Email-%40nafizulikram3@gmail.com-brightgreen?style=for-the-badge&logo=gmail" alt="email" /></a>
     <a href="https://twitter.com/nafizulikram" target="_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40nafizulikram-brightblue?style=for-the-badge&logo=twitter" alt="twitter" /></a>
     <a href="https://linkedin.com/in/md-nafizul-iqram/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@nafizulikram-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+    Check out my portfolio: <a href="https://nafiz.dev" target="_blank">nafiz.dev</a>
 </p>
 
 <hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
@@ -58,7 +60,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
   </a>
   <a href="https://clerk.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="clerk" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -87,13 +89,34 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+
+    <!-- Added tools -->
+  <a href="https://tanstack.com/" target="_blank" rel="noopener noreferrer" aria-label="TanStack">
+    <img src="https://cdn.simpleicons.org/tanstack/FF4154" alt="TanStack" title="TanStack" width="40" height="40" loading="lazy" decoding="async" />
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer" aria-label="Supabase">
+    <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" title="Supabase" width="40" height="40" loading="lazy" decoding="async" />
+  </a>
+  <a href="https://turbo.build/repo" target="_blank" rel="noopener noreferrer" aria-label="Turborepo">
+    <img src="https://cdn.simpleicons.org/turborepo/EF4444" alt="Turborepo" title="Turborepo" width="40" height="40" loading="lazy" decoding="async" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" aria-label="Docker">
+    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="40" height="40" loading="lazy" decoding="async" />
+  </a>
+  <a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer" aria-label="Playwright">
+    <img src="https://cdn.simpleicons.org/playwright/2EAD33" alt="Playwright" title="Playwright" width="40" height="40" loading="lazy" decoding="async" />
+  </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer" aria-label="Jest">
+    <img src="https://cdn.simpleicons.org/jest/C21325" alt="Jest" title="Jest" width="40" height="40" loading="lazy" decoding="async" />
+  </a>
 </p>
 
 <hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
 ### 🚀 Featured Projects
-- **Real-time chat app**: Friends Chat is a real-time chat app with one-on-one and group messaging, powered by Convex for seamless communication. [GitHub link](https://github.com/nafiz678/real-time-chat-app)
-- **News Chronicle**: News Chronicle is a modern, role-based news platform with a clean UI, dynamic content, and features like search and category filtering. [GitHub link](https://github.com/nafiz678/news-chronicle-client)
+- **Millennial Clothing**: Modern e-commerce platform built with Next.js 15, TanStack, Supabase, and Turborepo monorepo architecture. [Live Demo](https://millennial-clothing.com/)
+- **News Chronicle**: News Chronicle is a modern, role-based news platform with a clean UI, dynamic content, and features like search and category filtering. [Live Demo](https://news-chronical.web.app/)
+- **Care Matrix**: Full-stack healthcare platform featuring emergency dashboards, service listings, and a real-time review system to improve healthcare support and transparency. [Live Demo](https://care-matrix.vercel.app)
 
 <hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
