@@ -114,20 +114,24 @@
 
 <hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="left">Streak Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafiz678&show_icons=true&locale=en&theme=tokyonight" alt="nafiz678 stats" />
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=nafiz678&theme=tokyonight&hide_border=true"
+    alt="GitHub streak stats."
+  />
 </p>
 
-<h3 align="center">Top Languages</h3>
+<h3 align="left">GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz678&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nafiz678 top languages" />
-</p>
-
-<h3 align="center">GitHub Streak</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiz678&theme=tokyonight" alt="nafiz678 streak" />
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafiz678&theme=tokyonight"
+    alt="Stats"
+  />
+    <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiz678&theme=tokyonight"
+    alt="Repos per language."
+  />
 </p>
