@@ -118,7 +118,7 @@
 
 <p align="left">
   <img
-    src="https://streak-stats.demolab.com?user=nafiz678&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=nafiz678&theme=dark&hide_border=true"
     alt="GitHub streak stats."
   />
 </p>
@@ -127,11 +127,11 @@
 
 <p align="left">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafiz678&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafiz678&theme=github_dark"
     alt="Stats"
   />
     <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiz678&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiz678&theme=github_dark"
     alt="Repos per language."
   />
 </p>
