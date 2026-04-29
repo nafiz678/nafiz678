@@ -38,72 +38,73 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" aria-label="Git">
-    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" aria-label="Node.js">
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" title="Node.js" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" title="Node.js" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" aria-label="React">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" aria-label="Tailwind CSS">
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" aria-label="Next.js">
-    <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://stripe.com/" target="_blank" rel="noopener noreferrer" aria-label="Stripe">
-    <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" title="Stripe" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" title="Stripe" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer" aria-label="Express">
-    <img src="https://cdn.simpleicons.org/express/000000" alt="Express" title="Express" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/express/000000" alt="Express" title="Express" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://clerk.com/" target="_blank" rel="noopener noreferrer" aria-label="Clerk">
-    <img src="https://cdn.simpleicons.org/clerk/6C47FF" alt="Clerk" title="Clerk" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/clerk/6C47FF" alt="Clerk" title="Clerk" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" aria-label="MongoDB">
-    <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" aria-label="PostgreSQL">
-    <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://hono.dev/" target="_blank" rel="noopener noreferrer" aria-label="Hono">
-    <img src="https://cdn.simpleicons.org/hono/E36002" alt="Hono" title="Hono" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/hono/E36002" alt="Hono" title="Hono" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer" aria-label="C">
-    <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" title="C" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" title="C" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" aria-label="C++">
-    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" title="C++" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" title="C++" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer" aria-label="CSS3">
-    <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" title="CSS3" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" title="CSS3" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" aria-label="HTML5">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" aria-label="JavaScript">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" aria-label="TypeScript">
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://tanstack.com/" target="_blank" rel="noopener noreferrer" aria-label="TanStack">
-    <img src="https://cdn.simpleicons.org/tanstack/FF4154" alt="TanStack" title="TanStack" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/tanstack/FF4154" alt="TanStack" title="TanStack" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer" aria-label="Supabase">
-    <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" title="Supabase" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" title="Supabase" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://turbo.build/repo" target="_blank" rel="noopener noreferrer" aria-label="Turborepo">
-    <img src="https://cdn.simpleicons.org/turborepo/EF4444" alt="Turborepo" title="Turborepo" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/turborepo/EF4444" alt="Turborepo" title="Turborepo" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" aria-label="Docker">
-    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="40" height="40" loading="lazy" decoding="async" />
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer" aria-label="Jest">
-    <img src="https://cdn.simpleicons.org/jest/C21325" alt="Jest" title="Jest" width="40" height="40" loading="lazy" decoding="async" />
+    <img style="margin: 4px; width="40" height="40" src="https://cdn.simpleicons.org/jest/C21325" alt="Jest" title="Jest" width="40" height="40" loading="lazy" decoding="async" />
   </a>
 </p>
+
 
 <hr style="width: 60%; border: 1px solid #ccc; margin-top: 20px;"/>
 
